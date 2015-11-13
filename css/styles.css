@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#marsi-meyers-miyashita-cover {
+  background-image: url("../assets/img/marsi-meyers-miyashita-cover.jpg")
+}
+
+#marsi-meyers-miyashita-card {
+  background-image: url("../assets/img/marsi-meyers-miyashita.jpg")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
