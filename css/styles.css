@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ashley-muller-cover{
+  background-image: url("../assets/img/Ashley-Muller-Cover.jpg");
+}
+
+#ashley-muller-card{
+  background-image: url("../assets/img/Ashley-Muller.jpg");
+}
+
 #aaron-figueroa-cover{
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
