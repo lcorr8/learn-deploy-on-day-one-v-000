@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#danny-dawson-cover {
+  background-image: url("../assets/img/danny-dawson-cover.jpg");
+}
+
+#danny-dawson-card {
+  background-image: url("../assets/img/danny-dawson.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
