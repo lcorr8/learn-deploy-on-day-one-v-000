@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#lisa-marie-cover {
+  background-image: url("../assets/img/lisa-marie-cover.jpg");
+}
+
+#lisa-marie-card {
+  background-image: url("../assets/img/lisa-marie.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
