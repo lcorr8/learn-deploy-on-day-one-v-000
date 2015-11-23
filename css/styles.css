@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#scotty-runyan-cover {
+  background-image: url("../assets/img/scotty-runyan-cover.jpg");
+}
+
+#scotty-runyan-card {
+  background-image: url("../assets/img/scotty-runyan.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
