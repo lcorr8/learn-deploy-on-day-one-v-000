@@ -212,6 +212,14 @@ a:visited {
 #phil-lai-card {
   background-image: url("../assets/img/phil-lai.jpg");
 }
+#vinesh-persaud-card {
+  background-image: url("../assets/img/vinesh-persaud.jpg");
+}
+
+#vinesh-persaud-cover {
+  background-image: url("../assets/img/vinesh-persaud-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
