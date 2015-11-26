@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#karuna-barla-cover {
+  background-image: url("../assets/img/karuna-barla-cover.jpg");
+}
+
+#karuna-barla-card {
+  background-image: url("../assets/img/karuna-barla.JPG");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
