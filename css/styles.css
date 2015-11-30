@@ -213,6 +213,15 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#ben-wong-card {
+  background-image: url("../assets/img/ben-wong-profile.jpg");
+}
+
+#ben-wong-cover {
+  background-image: url("../assets/img/ben-wong-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
