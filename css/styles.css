@@ -213,6 +213,10 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#pj-wickwire-card {
+  background-image: url("../assets/img/pj-wickwire.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
