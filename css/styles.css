@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ruth-mesfun-cover{
+  background-image: url("../assets/img/ruth-mesfun-cover.jpg");
+}
+
+#ruth-mesfun-card{
+  background-image: url("../assets/img/ruth-mesfun.png"); 
+}
+
 #aaron-figueroa-cover{
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
