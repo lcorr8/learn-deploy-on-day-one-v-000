@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#mitul-mistry-cover {
+  background-image: url("../assets/img/mitul-mistry-cover.jpg");
+}
+
+#mitul-mistry-card {
+  background-image: url("../assets/img/mitul-mistry-card.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
