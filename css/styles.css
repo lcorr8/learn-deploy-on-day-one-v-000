@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#seth-goldberg-cover {
+  background-image: url("../assets/img/seth-goldberg-cover.jpg");
+}
+
+#seth-goldberg-card {
+  background-image: url("../assets/img/seth-goldberg.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
