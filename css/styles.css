@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#alvin-lu-cover{
+  background-image: url("../assets/img/alvin-lu-cover.JPG");
+}
+
+#alvin-lu-card{
+  background-image: url("../assets/img/alvin-lu.JPG");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
