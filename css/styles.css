@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#liz-denhup-cover {
+  background-image: url("../assets/img/liz-denhup-cover.jpg");
+}
+
+#liz-denhup-card {
+  background-image: url("../assets/img/liz-denhup.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
