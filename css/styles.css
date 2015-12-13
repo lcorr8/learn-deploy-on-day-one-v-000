@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+/* selector image links for david-kim */
+#david-kim {
+  background-image: url("../assets/img/david-kim.jpg");
+}
+#david-kim-cover {
+  background-image: url("../assets/img/david-kim-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
