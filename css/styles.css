@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#mack-dalton-cover{
+  background-image: url("../assets/img/mack-dalton-cover.jpg");
+}
+
+#mack-dalton-card{
+  background-image: url("../assets/img/mack-dalton.jpg");
+}
+
 #aaron-figueroa-cover{
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
