@@ -213,6 +213,14 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#eric-an-cover {
+  background-image: url("../assets/img/eric-an-cover.jpg");
+}
+
+#eric-an-card {
+  background-image: url("../assets/img/eric-an.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
