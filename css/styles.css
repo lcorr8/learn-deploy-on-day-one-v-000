@@ -213,6 +213,15 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#caleb-knox-card {
+  background-image: url("../assets/img/caleb-knox.jpg");
+}
+
+#caleb-knox-cover {
+  background-image: url("../assets/img/caleb-knox-cover.jpeg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
