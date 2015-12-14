@@ -311,6 +311,14 @@ a:visited {
   background-image: url("../assets/img/Matt-McGowan-Cover.jpg");
 }
 
+#don-febbraio-cover {
+  background-image: url("../assets/img/don-febbraio-cover.jpg");
+}
+
+#don-febbraio-card {
+  background-image: url("../assets/img/don-febbraio.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
