@@ -522,6 +522,15 @@ a:visited {
   background-image: url("../assets/img/grace-lee.jpg")
 }
 
+#caleb-knox-card {
+  background-image: url("../assets/img/caleb-knox.jpg");
+}
+
+#caleb-knox-cover {
+  background-image: url("../assets/img/caleb-knox-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
