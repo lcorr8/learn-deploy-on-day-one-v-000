@@ -513,6 +513,10 @@ a:visited {
   background-image: url("../assets/img/pj-wickwire.jpg");
 }
 
+#pj-wickwire-cover {
+  background-image: url("../assets/img/pj-wickwire-cover.jpeg");
+}
+
 #mitul-mistry-cover {
   background-image: url("../assets/img/mitul-mistry-cover.jpg");
 }
@@ -561,6 +565,15 @@ a:visited {
 #preet-dha-card {
   background-image: url("../assets/img/preet-dha.jpg");
 }
+
+#dan-osment-cover {
+  background-image: url("../assets/img/dan-osment-cover.jpg");
+}
+
+#dan-osment-card {
+  background-image: url("../assets/img/dan-osment.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
