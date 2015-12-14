@@ -294,6 +294,14 @@ a:visited {
   background-image: url("../assets/img/joseph-surla.jpg");
 }
 
+#yoshi-tamaoki-cover {
+  background-image: url("../assets/img/yoshi-tamaoki-cover.jpg");
+}
+
+#yoshi-tamaoki-card {
+  background-image: url("../assets/img/yoshi-tamaoki.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
