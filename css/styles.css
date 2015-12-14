@@ -198,8 +198,20 @@ a:visited {
   background-image: url("../assets/img/james-novak.jpg");
 }
 
-#robert-cohen-card{
+#jason-mcelrath-card {
+  background-image: url("../assets/img/jason-mcelrath.jpg");
+}
+
+#jason-mcelrath-cover {
+  background-image: url("../assets/img/jason-mcelrath-cover.jpg");
+}
+
+#robert-cohen-card {
   background-image: url("../assets/img/robert-cohen.jpg");
+}
+
+#robert-cohen-cover {
+  background-image: url("../assets/img/robert-cohen-cover.jpg");
 }
 
 #shana-moore-card {
@@ -213,11 +225,6 @@ a:visited {
 #michael-nolan-card {
   background-image: url("../assets/img/michael-nolan.jpg");
 }
-
-#robert-cohen-cover{
-  background-image: url("../assets/img/robert-cohen-cover.jpg");
-}
-
 
 #michael-nolan-cover {
   background-image: url("../assets/img/michael-nolan-cover.jpg");
