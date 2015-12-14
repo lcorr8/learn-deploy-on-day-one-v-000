@@ -246,6 +246,14 @@ a:visited {
   background-image: url("../assets/img/marsi-meyers-miyashita.jpg")
 }
 
+#sarah-lichter-card {
+  background-image: url("../assets/img/sarah-lichter.jpg");
+}
+
+#sarah-lichter-cover {
+  background-image: url("../assets/img/sarah-lichter-cover.jpeg");
+}
+
 #justin-thomas-card{
   background-image:url("../assets/img/justin-thomas.jpg");
 }
@@ -269,7 +277,6 @@ a:visited {
 #ben-wong-cover {
   background-image: url("../assets/img/ben-wong-cover.jpg");
 }
-
 
 #pedro-acosta-card {
   background-image: url("../assets/img/pedro-acosta-brooke.jpeg");
