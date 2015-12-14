@@ -366,6 +366,14 @@ a:visited {
   background-image: url("../assets/img/lisa-marie.jpg");
 }
 
+#tucker-bohman-cover {
+  background-image: url("../assets/img/tucker-bohman-cover.png");
+}
+
+#tucker-bohman-card {
+  background-image: url("../assets/img/tucker-bohman.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
