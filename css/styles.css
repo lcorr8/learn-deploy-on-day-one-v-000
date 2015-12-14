@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#daniel-brad-cover{
+  background-image: url("../assets/img/daniel-brad-cover.jpg");
+}
+
+#daniel-brad-card{
+  background-image: url("../assets/img/daniel-brad.jpg");
+}
+
 #aaron-figueroa-cover{
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
