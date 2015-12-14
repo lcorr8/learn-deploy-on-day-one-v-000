@@ -133,6 +133,7 @@ a:visited {
   height: 400px;
 }
 
+<<<<<<< HEAD
 #kyle-greene-card {
   background-image: url("../assets/img/kyle-greene.jpg");
 }
@@ -173,6 +174,14 @@ a:visited {
   background-image: url("../assets/img/brett-heenan.jpg");
 }
 
+#mack-dalton-cover {
+  background-image: url("../assets/img/mack-dalton-cover.jpg");
+}
+
+#mack-dalton-card {
+  background-image: url("../assets/img/mack-dalton.jpg");
+}
+
 #aaron-figueroa-cover {
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
@@ -181,7 +190,6 @@ a:visited {
   background-image: url("../assets/img/IMG_1548.JPG");
 }
 
-<<<<<<< HEAD
 #Jelson-Rodriguez-cover {
   background-image: url("../assets/img/Jelson-Rodriguez-cover.JPG");
 }
