@@ -237,6 +237,14 @@ a:visited {
   background-image: url("../assets/img/marsi-meyers-miyashita.jpg")
 }
 
+#justin-thomas-card{
+  background-image:url("../assets/img/justin-thomas.jpg");
+}
+
+#justin-thomas-cover{
+  background-image: url("../assets/img/justin-thomas-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
