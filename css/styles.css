@@ -547,6 +547,14 @@ a:visited {
   background-image: url("../assets/img/eric-an.jpg");
 }
 
+#preet-dha-cover {
+  background-image: url("../assets/img/preet-dha-cover.jpg");
+}
+
+#preet-dha-card {
+  background-image: url("../assets/img/preet-dha.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
