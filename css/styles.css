@@ -133,13 +133,12 @@ a:visited {
   height: 400px;
 }
 
-<<<<<<< HEAD
 #kyle-greene-card {
   background-image: url("../assets/img/kyle-greene.jpg");
 }
 
 #kyle-greene-cover {
-  background-image: url("../assets/img/kyle-greene-card.JPG");
+  background-image: url("../assets/img/kyle-greene-cover.jpg");
 }
 
 #ashley-muller-cover{
@@ -180,6 +179,14 @@ a:visited {
 
 #mack-dalton-card {
   background-image: url("../assets/img/mack-dalton.jpg");
+}
+
+#taiwei-ko-card {
+  background-image: url("../assets/img/taiwei.jpg");
+}
+
+#taiwei-ko-cover {
+  background-image: url("../assets/img/city 1.jpg");
 }
 
 #aaron-figueroa-cover {
