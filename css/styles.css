@@ -237,6 +237,14 @@ a:visited {
   background-image: url("../assets/img/marsi-meyers-miyashita.jpg")
 }
 
+#sarah-lichter-card {
+  background-image: url("../assets/img/sarah-lichter.jpg");
+}
+
+#sarah-lichter-cover {
+  background-image: url("../assets/img/sarah-lichter-cover.jpeg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
