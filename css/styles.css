@@ -382,6 +382,14 @@ a:visited {
   background-image: url("../assets/img/alvin-lu.JPG");
 }
 
+/* selector image links for david-kim */
+#david-kim {
+  background-image: url("../assets/img/david-kim.jpg");
+}
+#david-kim-cover {
+  background-image: url("../assets/img/david-kim-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
