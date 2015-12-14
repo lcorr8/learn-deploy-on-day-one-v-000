@@ -270,6 +270,14 @@ a:visited {
 }
 
 
+#pedro-acosta-card {
+  background-image: url("../assets/img/pedro-acosta-brooke.jpeg");
+}
+
+#pedro-acosta-cover {
+  background-image: url("../assets/img/sasuke-ak-halfwing.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
