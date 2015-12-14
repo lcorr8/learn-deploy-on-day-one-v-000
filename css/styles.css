@@ -107,7 +107,6 @@ a:visited {
 .student-card {
   position: relative;
   /*background-image: url("../assets/img/profile-photo-placeholder.png");*/
-
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -504,6 +503,14 @@ a:visited {
 
 #liz-denhup-card {
   background-image: url("../assets/img/liz-denhup.jpg");
+}
+
+#grace-lee-cover {
+  background-image: url("../assets/img/grace-lee-cover.jpg")
+}
+
+#grace-lee-card {
+  background-image: url("../assets/img/grace-lee.jpg")
 }
 
 .view-profile-div {
