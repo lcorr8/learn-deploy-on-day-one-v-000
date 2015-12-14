@@ -107,6 +107,7 @@ a:visited {
 .student-card {
   position: relative;
   /*background-image: url("../assets/img/profile-photo-placeholder.png");*/
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -228,6 +229,14 @@ a:visited {
 #phil-lai-card {
   background-image: url("../assets/img/phil-lai.jpg");
 }
+#vinesh-persaud-card {
+  background-image: url("../assets/img/vinesh-persaud.jpg");
+}
+
+#vinesh-persaud-cover {
+  background-image: url("../assets/img/vinesh-persaud-cover.jpg");
+}
+
 
 #marsi-meyers-miyashita-cover {
   background-image: url("../assets/img/marsi-meyers-miyashita-cover.jpg")
@@ -243,6 +252,78 @@ a:visited {
 
 #sarah-lichter-cover {
   background-image: url("../assets/img/sarah-lichter-cover.jpeg");
+}
+
+#justin-thomas-card{
+  background-image:url("../assets/img/justin-thomas.jpg");
+}
+
+#justin-thomas-cover{
+  background-image: url("../assets/img/justin-thomas-cover.jpg");
+}
+
+#shmully-wolfson-cover{
+  background-image: url("../assets/img/shmully-wolfson-cover.jpg")
+}
+
+#shmully-wolfson-card {
+  background-image: url("../assets/img/shmully-wolfson.jpg");
+}
+
+#ben-wong-card {
+  background-image: url("../assets/img/ben-wong-profile.jpg");
+}
+
+#ben-wong-cover {
+  background-image: url("../assets/img/ben-wong-cover.jpg");
+}
+
+#pedro-acosta-card {
+  background-image: url("../assets/img/pedro-acosta-brooke.jpeg");
+}
+
+#pedro-acosta-cover {
+  background-image: url("../assets/img/sasuke-ak-halfwing.jpg");
+}
+
+#seth-goldberg-cover {
+  background-image: url("../assets/img/seth-goldberg-cover.jpg");
+}
+
+#seth-goldberg-card {
+  background-image: url("../assets/img/seth-goldberg.jpg");
+}
+
+#joseph-surla-cover {
+  background-image: url("../assets/img/joseph-surla-cover.jpg");
+}
+
+#joseph-surla-card {
+  background-image: url("../assets/img/joseph-surla.jpg");
+}
+
+#yoshi-tamaoki-cover {
+  background-image: url("../assets/img/yoshi-tamaoki-cover.jpg");
+}
+
+#yoshi-tamaoki-card {
+  background-image: url("../assets/img/yoshi-tamaoki.jpg");
+}
+
+#Matt-McGowan-card {
+  background-image: url("../assets/img/matt-mcgowan.jpg");
+}
+
+#Matt-McGowan-cover {
+  background-image: url("../assets/img/Matt-McGowan-Cover.jpg");
+}
+
+#don-febbraio-cover {
+  background-image: url("../assets/img/don-febbraio-cover.jpg");
+}
+
+#don-febbraio-card {
+  background-image: url("../assets/img/don-febbraio.jpg");
 }
 
 .view-profile-div {
@@ -300,6 +381,7 @@ a:visited {
 .profile-banner {
   height: 410px;
   /*background-image: url("../assets/img/michael-nolan-cover.jpg");*/
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -327,6 +409,7 @@ a:visited {
 
 .profile-photo {
   /*background-image: url("../assets/img/michael-nolan.jpg");*/
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
