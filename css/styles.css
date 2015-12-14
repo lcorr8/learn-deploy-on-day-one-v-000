@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#taiwei-ko-card{
+  background-image: url("../assets/img/taiwei.jpg");
+}
+#taiwei-ko-cover{
+  background-image: url("../assets/img/city 1.jpg");
+}
+
 #aaron-figueroa-cover{
   background-image: url("../assets/img/cool_desktop_backgrounds_fd4.png");
 }
