@@ -350,6 +350,14 @@ a:visited {
   background-image: url("../assets/img/jake-brady.jpg")
 }
 
+#alyssa-hertig-cover {
+  background-image: url("../assets/img/alyssa-hertig-cover.jpg");
+}
+
+#alyssa-hertig-card {
+  background-image: url("../assets/img/alyssa-hertig.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
