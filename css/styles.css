@@ -213,6 +213,15 @@ a:visited {
   background-image: url("../assets/img/phil-lai.jpg");
 }
 
+#dan-osment-cover {
+  background-image: url("../assets/img/dan-osment-cover.jpg");
+}
+
+#dan-osment-card {
+  background-image: url("../assets/img/dan-osment.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
