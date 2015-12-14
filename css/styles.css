@@ -286,6 +286,14 @@ a:visited {
   background-image: url("../assets/img/seth-goldberg.jpg");
 }
 
+#joseph-surla-cover {
+  background-image: url("../assets/img/joseph-surla-cover.jpg");
+}
+
+#joseph-surla-card {
+  background-image: url("../assets/img/joseph-surla.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
