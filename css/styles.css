@@ -334,6 +334,14 @@ a:visited {
   background-image: url("../assets/img/danny-dawson.jpg");
 }
 
+#dlm-card {
+  background-image: url("../assets/img/dakota-profile.jpg");
+}
+
+#dlm-cover {
+  background-image: url('../assets/img/sandra-ko-and-mario.jpg');
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
