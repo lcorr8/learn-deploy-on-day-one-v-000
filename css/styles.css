@@ -431,6 +431,14 @@ a:visited {
   background-image: url("../assets/img/karuna-barla.JPG");
 }
 
+#johnny-ramos-cover {
+  background-image: url("../assets/img/johnny-ramos-cover.jpg");
+}
+
+#johnny-ramos-card {
+  background-image: url("../assets/img/johnny-ramos.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
