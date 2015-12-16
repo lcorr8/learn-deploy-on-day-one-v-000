@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#joe-lachance-cover {
+  background-image: url("../assets/img/joe-lachance-cover.jpg");
+}
+
+#joe-lachance-card {
+  background-image: url("../assets/img/joe-lachance.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
