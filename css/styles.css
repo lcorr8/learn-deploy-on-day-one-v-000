@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#ryan-johnson-cover {
+  background-image: url("../assets/img/ryan-johnson-cover.jpg");
+}
+
+#ryan-johnson-card {
+  background-image: url("../assets/img/ryan-johnson.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
