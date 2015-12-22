@@ -134,8 +134,12 @@ a:visited {
 }
 
 <<<<<<< HEAD
-#zac-baston-card {
+#zb-card {
   background-image: url("../assets/img/zac-baston.jpg");
+}
+
+#zb-cover {
+  background-image: url("../assets/img/zac-baston-cover.jpg");
 }
 
 #kyle-greene-card {
