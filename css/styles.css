@@ -583,6 +583,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#eric-chu-cover {
+  background-image: url("../assets/img/eric-chu-cover.jpg");
+}
+
+#eric-chu-card {
+  background-image: url("../assets/img/eric-chu.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
