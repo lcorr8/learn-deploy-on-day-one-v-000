@@ -583,6 +583,13 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#corey-morris-cover {
+  background-image: url("../assets/img/corey-morris-cover.jpg");
+}
+
+#corey-morris-card {
+  background-image: url("../assets/img/corey-morris.jpg");
+}
 
 .view-profile-div {
   position: absolute;
