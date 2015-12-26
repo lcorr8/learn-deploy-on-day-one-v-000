@@ -134,6 +134,14 @@ a:visited {
 }
 
 <<<<<<< HEAD
+#andy-zheng-card {
+  background-image: url("../assets/img/andy-zheng.jpg");
+}
+
+#andy-zheng-cover {
+  background-image: url("../assets/img/andy-zheng-cover.jpg");
+}
+
 #kyle-greene-card {
   background-image: url("../assets/img/kyle-greene.jpg");
 }
