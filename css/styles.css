@@ -614,8 +614,6 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 #joe-lachance-cover {
   background-image: url("../assets/img/joe-lachance-cover.jpg");
 }
@@ -656,6 +654,13 @@ a:visited {
   background-image: url("../assets/img/eric-chu.jpg");
 }
 
+#chris-bruen-cover {
+  background-image: url("../assets/img/chris-bruen-cover.jpg");
+}
+
+#chris-bruen-card {
+  background-image: url("../assets/img/chris-bruen.jpg");
+}
 
 .view-profile-div {
   position: absolute;
