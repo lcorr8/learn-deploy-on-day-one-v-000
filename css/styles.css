@@ -678,6 +678,13 @@ a:visited {
   background-image: url("../assets/img/corey-morris.jpg");
 }
 
+#laura-correa-cover {
+  background-image: url("../assets/img/laura-correa-cover.jpg");
+}
+
+#laura-correa-card {
+  background-image: url("../assets/img/laura-correa.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
