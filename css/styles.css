@@ -141,11 +141,11 @@ a:visited {
   background-image: url("../assets/img/kyle-greene-cover.jpg");
 }
 
-#ashley-muller-cover{
+#ashley-muller-cover {
   background-image: url("../assets/img/Ashley-Muller-Cover.jpg");
 }
 
-#ashley-muller-card{
+#ashley-muller-card {
   background-image: url("../assets/img/Ashley-Muller.jpg");
 }
 
@@ -167,6 +167,14 @@ a:visited {
 
 #edgar-gonzalez-cover {
   background-image: url("../assets/img/edgar-gonzalez-cover.jpg");
+}
+
+#zb-card {
+  background-image: url("../assets/img/zac-baston.jpg");
+}
+
+#zb-cover {
+  background-image: url("../assets/img/zac-baston-cover.jpg");
 }
 
 #ruth-mesfun-cover {
@@ -694,8 +702,6 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  /*background-image: url("../assets/img/michael-nolan-cover.jpg");*/
-
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -722,8 +728,6 @@ a:visited {
 }
 
 .profile-photo {
-  /*background-image: url("../assets/img/michael-nolan.jpg");*/
-
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
