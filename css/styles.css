@@ -154,6 +154,10 @@ a:visited {
   background-image: url("../assets/img/ed-karabinus-cover.jpg");
 }
 
+#john-anthony-cover {
+  background-image: url("../assets/img/john-anthony-cover.jpg");
+}
+
 #ed-karabinus-card {
   background-image: url("../assets/img/ed-karabinus.jpg");
 }
@@ -573,6 +577,10 @@ a:visited {
 
 #eric-an-card {
   background-image: url("../assets/img/eric-an.jpg");
+}
+
+#john-anthony-card {
+  background-image: url("../assets/img/john-anthony-profile.jpg");
 }
 
 #preet-dha-cover {
