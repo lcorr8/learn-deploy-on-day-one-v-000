@@ -163,7 +163,7 @@ a:visited {
 }
 
 #ruth-mesfun-card {
-  background-image: url("../assets/img/ruth-mesfun.png"); 
+  background-image: url("../assets/img/ruth-mesfun.png");
 }
 
 #brett-heenan-cover {
@@ -268,6 +268,14 @@ a:visited {
 
 #joe-burgess-cover {
   background-image: url("../assets/img/joe-burgess-cover.png");
+}
+
+#cory-adams-card {
+  background-image: url("../assets/img/cory-adams.jpg");
+}
+
+#cory-adams-cover {
+  background-image: url("../assets/img/cory-adams-cover.jpg");
 }
 
 #avi-flombaum-card {
