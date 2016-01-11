@@ -615,6 +615,15 @@ a:visited {
 }
 
 
+#tracy-tran-cover {
+  background-image: url(../assets/img/tracy-tran-cover.jpg);
+}
+
+#tracy-tran-card {
+  background-image: url(../assets/img/tracy-tran.jpg);
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
